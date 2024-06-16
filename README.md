@@ -34,6 +34,10 @@ To get started with this project, follow the instructions below:
 <li>GND to GND</li>
 <li>A0 to A0 (analog pin on ESP8266)</li>
 
+<p align="center">
+  <img src="https://github.com/Iswarya-Singaram/Gas_Level_monitoring-ThingSpeak/assets/145309713/e2a5f837-2ec2-4871-894e-b3c0982c719a" width="500" height="300">
+</p>
+
 ## Software Setup
 #### 1.Download the latest Arduino IDE from the official website
 ~~~
